@@ -1,6 +1,6 @@
 {
   "name": "ndjson-to-elasticsearch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stream ndjson to elasticsearch",
   "bin": "bin/cli.js",
   "main": "lib/index.js",
